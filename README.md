@@ -1,6 +1,6 @@
 # CLAN Studio Toolkits - AutoHotkey
 
-下载地址：[CLAN AHK.exe](https://github.com/clan4456/CSTK_AutoHotkey/releases/download/v1.0.0.1/CLAN AHK.exe)
+下载地址：[CLAN AHK.exe](https://github.com/clan4456/CSTK_AutoHotkey/releases/download/v1.0.0.1/CLAN%20AHK.exe)
 
 SHA-256：64089534c29f18a46b3b5aa23e6429d4b582a0ad62fd4967d1d1cd71e3a1e650
 
@@ -27,8 +27,6 @@ AutoHotkey 是一款 windows 平台下的热键脚本语言程序。可以实现
 ## 3. 自用脚本
 
 ![Snipaste_2022-10-25_11-45-37.png](http://pic2.clan4456.com/clan-picgo-core/images/2022/10/25/Snipaste_2022-10-25_11-45-37-3166db0bdaf61948d6214ec2c416fd5a.png!small)
-
-
 
 ### 3.1 CapsLock替换成Enter
 
