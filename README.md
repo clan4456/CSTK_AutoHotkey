@@ -1,6 +1,6 @@
 # CLAN Studio Toolkits - AutoHotkey
 
-下载地址：[CLAN AHK.exe](https://github.com/clan4456/CSTK_AutoHotkey/releases/download/v1.0.0.1/CLAN%20AHK.exe)
+下载地址：[CLAN AHK.exe](https://github.com/clan4456/CSTK_AutoHotkey/releases/download/v1.0.0.1/CLAN.AHK.exe)
 
 SHA-256：64089534c29f18a46b3b5aa23e6429d4b582a0ad62fd4967d1d1cd71e3a1e650
 
